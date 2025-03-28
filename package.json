@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  },
+  "name": "dum-admin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KVonGit/DUM-Admin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KVonGit/DUM-Admin/issues"
+  },
+  "homepage": "https://github.com/KVonGit/DUM-Admin#readme"
+}
